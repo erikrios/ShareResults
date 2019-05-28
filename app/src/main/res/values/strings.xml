@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Share Results</string>
+    <string name="today_result">MY RESULT FOR TODAY</string>
+    <string name="date">Februari 28</string>
+    <string name="fitness_value">9.0 Km</string>
+    <string name="run_value">1 hr 20 min</string>
+    <string name="bike_value">11.0 Km</string>
+    <string name="share_results">SHARE RESULTS</string>
+</resources>
